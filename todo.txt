@@ -1,6 +1,4 @@
 TODO
-- Create AI dataset
-- Train AI model
 - Set up message classification system
 - Set up data collection for banning
 - Set up ban protocol
